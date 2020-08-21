@@ -1,3 +1,0 @@
-welcome to my second repo
-learning git is going well
-i added this line in update-realme branch
