@@ -1,1 +1,3 @@
 welcome to my second repo
+learning git is going well
+the third ine
